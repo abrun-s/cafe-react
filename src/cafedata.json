@@ -1,0 +1,1138 @@
+[
+  {
+    "id": 52,
+    "title": "BROOKLYN PARLOR SHINJUKU",
+    "address": "Shinjuku Marui Annex B1F, 3-1-26 Shinjuku, Shinjuku-ku, Tokyo, 160-0022, Tokyo",
+    "picture": "https://laptopfriendly.co/images/places/tokyo/brooklyn-parlor-shinjuku/brooklyn-parlor-shinjuku%20shinjuku-city%20brooklyn-parlor-shinjuku-shinjuku-city%20.jpg",
+    "hours": {
+      "Unknown": []
+    },
+    "criteria": [
+      "Stable Wi-Fi",
+      "Power sockets",
+      "Quiet",
+      "Coffee",
+      "Food"
+    ],
+    "created_at": "2024-03-04T03:36:01.479Z",
+    "updated_at": "2024-03-04T03:36:01.479Z"
+  },
+  {
+    "id": 37,
+    "title": "TOKYO VIP LOUNGE",
+    "address": "Yaesu Amerex Bldg 2F, 3F, 1-5-9 Yaesu Chuo-ku Tokyo, 103-0028, Tokyo",
+    "picture": "https://laptopfriendly.co/images/places/tokyo/tokyo-vip-lounge/tokyo-vip-lounge%20chuo-city%20tokyo-vip-lounge-chuo-city%20.jpg",
+    "hours": {
+      "Unknown": []
+    },
+    "criteria": [
+      "Stable Wi-Fi",
+      "Power sockets",
+      "Quiet",
+      "Coffee"
+    ],
+    "created_at": "2024-03-01T07:45:37.054Z",
+    "updated_at": "2024-03-01T07:45:37.054Z"
+  },
+  {
+    "id": 36,
+    "title": "NIKO AND ...",
+    "address": "6-chōme-12-20 Jingūmae, Shibuya City, 150-0001, Tokyo",
+    "picture": "https://laptopfriendly.co/images/places/tokyo/niko-and/niko-and-tokyo%20shibuya-city%20niko-and-tokyo-shibuya-city%20.jpg",
+    "hours": {
+      "Unknown": []
+    },
+    "criteria": [
+      "Stable Wi-Fi",
+      "Power sockets",
+      "Quiet",
+      "Coffee",
+      "Food"
+    ],
+    "created_at": "2024-03-01T07:45:37.052Z",
+    "updated_at": "2024-03-01T07:45:37.052Z"
+  },
+  {
+    "id": 35,
+    "title": "FABCAFE TOKYO",
+    "address": "Japan, 〒150-0043 Tokyo, Shibuya City, Dogenzaka, 1 Chome−22−7 道玄坂ピア 1F, 150-0043, Tokyo",
+    "picture": "https://laptopfriendly.co/images/places/tokyo/fabcafe-tokyo/fabcafe-tokyo%20shibuya-city%20fabcafe-tokyo-shibuya-city%20.jpg",
+    "hours": {
+      "Unknown": []
+    },
+    "criteria": [
+      "Stable Wi-Fi",
+      "Power sockets",
+      "Coffee",
+      "Food"
+    ],
+    "created_at": "2024-03-01T07:45:37.050Z",
+    "updated_at": "2024-03-01T07:45:37.050Z"
+  },
+  {
+    "id": 34,
+    "title": "DEUS EX MACHINA CAFE HARAJUKU",
+    "address": "3-chōme-29-5 Jingūmae, Shibuya City, 150-0001, Tokyo",
+    "picture": "https://laptopfriendly.co/images/places/tokyo/deus-ex-machina-cafe-harajuku/deus-ex-machina-cafe-harajuku%20shibuya-city%20deus-ex-machina-cafe-harajuku-shibuya-city%20.jpg",
+    "hours": {
+      "Unknown": []
+    },
+    "criteria": [
+      "Stable Wi-Fi",
+      "Power sockets",
+      "Quiet",
+      "Coffee"
+    ],
+    "created_at": "2024-03-01T07:45:37.048Z",
+    "updated_at": "2024-03-01T07:45:37.048Z"
+  },
+  {
+    "id": 33,
+    "title": "STREAMER COFFEE COMPANY",
+    "address": "1-chōme-20-28 Shibuya, Shibuya City, 150-0002, Tokyo",
+    "picture": "https://laptopfriendly.co/images/places/tokyo/streamer-coffee-company/streamer-coffee-company%20shibuya-city%20streamer-coffee-company-shibuya-city%20.jpg",
+    "hours": {
+      "Unknown": []
+    },
+    "criteria": [
+      "Stable Wi-Fi",
+      "Power sockets",
+      "Coffee",
+      "Food"
+    ],
+    "created_at": "2024-03-01T07:45:37.046Z",
+    "updated_at": "2024-03-01T07:45:37.046Z"
+  },
+  {
+    "id": 32,
+    "title": "MERCEDES ME TOKYO / DOWNSTAIRS COFFEE",
+    "address": "7-chōme-3-10 Roppongi, Minato City, 106-0032, Tokyo",
+    "picture": "https://laptopfriendly.co/images/places/tokyo/mercedes-me-tokyo-downstairs-coffee/mercedes-me-tokyo-downstairs-coffee%20minato-city%20mercedes-me-tokyo-downstairs-coffee-minato-city%20.jpg",
+    "hours": {
+      "Unknown": []
+    },
+    "criteria": [
+      "Stable Wi-Fi",
+      "Power sockets",
+      "Quiet",
+      "Coffee"
+    ],
+    "created_at": "2024-03-01T07:45:37.044Z",
+    "updated_at": "2024-03-01T07:45:37.044Z"
+  },
+  {
+    "id": 31,
+    "title": "SHIMOKITAZAWA TAG CAFE",
+    "address": "Japan, 〒155-0031 Tokyo, Setagaya City, Kitazawa, 2 Chome−12−10 サウスサイドⅡ-2B, 155-0031, Tokyo",
+    "picture": "https://laptopfriendly.co/images/places/tokyo/shimokitazawa-tag-cafe/shimokitazawa-tag-cafe%20setagaya-city%20shimokitazawa-tag-cafe-setagaya-city%20.jpg",
+    "hours": {
+      "Unknown": []
+    },
+    "criteria": [
+      "Stable Wi-Fi",
+      "Power sockets",
+      "Quiet",
+      "Coffee",
+      "Food"
+    ],
+    "created_at": "2024-03-01T07:45:37.042Z",
+    "updated_at": "2024-03-01T07:45:37.042Z"
+  },
+  {
+    "id": 30,
+    "title": "RETHINK CAFE SHIBUYA",
+    "address": "Japan, 〒150-0001 Tokyo, Shibuya City, Jingumae, 6 Chome−16−13 Naias神宮前 1・2F, 150-0001, Tokyo",
+    "picture": "https://laptopfriendly.co/images/places/tokyo/rethink-cafe-shibuya/rethink-cafe-shibuya%20shibuya-city%20rethink-cafe-shibuya-shibuya-city%20.jpg",
+    "hours": {
+      "Unknown": []
+    },
+    "criteria": [
+      "Stable Wi-Fi",
+      "Power sockets",
+      "Coffee",
+      "Food"
+    ],
+    "created_at": "2024-03-01T07:45:37.040Z",
+    "updated_at": "2024-03-01T07:45:37.040Z"
+  },
+  {
+    "id": 29,
+    "title": "WOODBERRY COFFEE ROASTERS 渋谷店",
+    "address": "2-chōme-20-18 Higashi, Shibuya City, 150-0011, Tokyo",
+    "picture": "https://laptopfriendly.co/images/places/tokyo/woodberry-coffee-roasters/woodberry-coffee-roasters%20shibuya-city%20woodberry-coffee-roasters-shibuya-city%20.jpg",
+    "hours": {
+      "Unknown": []
+    },
+    "criteria": [
+      "Stable Wi-Fi",
+      "Power sockets",
+      "Coffee",
+      "Food"
+    ],
+    "created_at": "2024-03-01T07:45:37.039Z",
+    "updated_at": "2024-03-01T07:45:37.039Z"
+  },
+  {
+    "id": 28,
+    "title": "LIVING ROOM CAFE BY EPLUS",
+    "address": "Japan, 〒150-0043 Tokyo, Shibuya City, Dogenzaka, 2 Chome−29−5 渋谷プライム 5階, 150-0043, Tokyo",
+    "picture": "https://laptopfriendly.co/images/places/tokyo/living-room-cafe-by-eplus/living-room-cafe-by-eplus%20shibuya-city%20living-room-cafe-by-eplus-shibuya-city%20.jpg",
+    "hours": {
+      "Unknown": []
+    },
+    "criteria": [
+      "Stable Wi-Fi",
+      "Power sockets",
+      "Quiet",
+      "Coffee",
+      "Food"
+    ],
+    "created_at": "2024-03-01T07:45:37.037Z",
+    "updated_at": "2024-03-01T07:45:37.037Z"
+  },
+  {
+    "id": 27,
+    "title": "TIME OUT",
+    "address": "Japan, 〒150-0011 Tokyo, Shibuya City, Higashi, 3 Chome−16−6 リキッドルーム, 150-0011, Tokyo",
+    "picture": "https://laptopfriendly.co/images/places/tokyo/time-out/time-out%20shibuya-city%20time-out-shibuya-city%20.jpg",
+    "hours": {
+      "Unknown": []
+    },
+    "criteria": [
+      "Stable Wi-Fi",
+      "Power sockets",
+      "Coffee",
+      "Food"
+    ],
+    "created_at": "2024-03-01T07:45:37.034Z",
+    "updated_at": "2024-03-01T07:45:37.034Z"
+  },
+  {
+    "id": 26,
+    "title": "HIBIYA LIBRARY & MUSEUM",
+    "address": "1-4 Hibiyakōen, Chiyoda City, 100-0012, Tokyo",
+    "picture": "https://laptopfriendly.co/images/places/tokyo/hibiya-library-museum/hibiya-library-museum%20other%20hibiya-library-museum-other%20.jpg",
+    "hours": {
+      "Fri": [
+        "10:00 – 20:00"
+      ],
+      "Mon": [
+        "Closed"
+      ],
+      "Sat": [
+        "10:00 – 19:00"
+      ],
+      "Sun": [
+        "10:00 – 17:00"
+      ],
+      "Thu": [
+        "10:00 – 20:00"
+      ],
+      "Tue": [
+        "10:00 – 20:00"
+      ],
+      "Wed": [
+        "10:00 – 20:00"
+      ]
+    },
+    "criteria": [],
+    "created_at": "2024-03-01T07:45:37.033Z",
+    "updated_at": "2024-03-01T07:45:37.033Z"
+  },
+  {
+    "id": 25,
+    "title": "STARBUCKS @ SHINJUKU SOUTHERN TERRACE",
+    "address": "151-0053, Tokyo",
+    "picture": "https://laptopfriendly.co/images/places/tokyo/starbucks-shinjuku-southern-terrace/starbucks-coffee%20other%20starbucks-coffee-other%20.jpg",
+    "hours": {
+      "Fri": [
+        "07:00 – 22:30"
+      ],
+      "Mon": [
+        "07:00 – 22:30"
+      ],
+      "Sat": [
+        "07:00 – 22:30"
+      ],
+      "Sun": [
+        "07:00 – 22:30"
+      ],
+      "Thu": [
+        "07:00 – 22:30"
+      ],
+      "Tue": [
+        "07:00 – 22:30"
+      ],
+      "Wed": [
+        "07:00 – 22:30"
+      ]
+    },
+    "criteria": [],
+    "created_at": "2024-03-01T07:45:37.030Z",
+    "updated_at": "2024-03-01T07:45:37.030Z"
+  },
+  {
+    "id": 24,
+    "title": "新豊洲カフェ NACAFE",
+    "address": "5-chōme-1-6 Toyosu, Koto City, 135-0061, Tokyo",
+    "picture": "https://laptopfriendly.co/images/places/tokyo/nacafe/nacafe%20other%20nacafe-other%20.jpg",
+    "hours": {
+      "Fri": [
+        "Closed"
+      ],
+      "Mon": [
+        "Closed"
+      ],
+      "Sat": [
+        "10:00 – 18:00"
+      ],
+      "Sun": [
+        "10:00 – 18:00"
+      ],
+      "Thu": [
+        "10:00 – 18:00"
+      ],
+      "Tue": [
+        "10:00 – 18:00"
+      ],
+      "Wed": [
+        "10:00 – 18:00"
+      ]
+    },
+    "criteria": [
+      "Stable Wi-Fi",
+      "Power sockets",
+      "Quiet",
+      "Coffee"
+    ],
+    "created_at": "2024-03-01T07:45:37.028Z",
+    "updated_at": "2024-03-01T07:45:37.028Z"
+  },
+  {
+    "id": 22,
+    "title": "BLUE BOTTLE COFFEE - IKEBUKURO CAFE",
+    "address": "2-chōme-23-7 Minamiikebukuro, Toshima City, 171-0022, Tokyo",
+    "picture": "https://laptopfriendly.co/images/places/tokyo/blue-bottle-coffee-ikebukuro-cafe/blue-bottle-coffee-ikebukuro-cafe--other.jpg",
+    "hours": {
+      "Fri": [
+        "08:00 – 20:00"
+      ],
+      "Mon": [
+        "08:00 – 20:00"
+      ],
+      "Sat": [
+        "08:00 – 20:00"
+      ],
+      "Sun": [
+        "08:00 – 20:00"
+      ],
+      "Thu": [
+        "08:00 – 20:00"
+      ],
+      "Tue": [
+        "08:00 – 20:00"
+      ],
+      "Wed": [
+        "08:00 – 20:00"
+      ]
+    },
+    "criteria": [],
+    "created_at": "2024-03-01T07:45:37.025Z",
+    "updated_at": "2024-03-01T07:45:37.025Z"
+  },
+  {
+    "id": 21,
+    "title": "VAJI SPICE",
+    "address": "5-chōme-63-10 Yoyogi, Shibuya City, 151-0053, Tokyo",
+    "picture": "https://laptopfriendly.co/images/places/tokyo/vaji-spice/vaji-spice--other.jpg",
+    "hours": {
+      "Fri": [
+        "11:00 – 20:00"
+      ],
+      "Mon": [
+        "11:00 – 20:00"
+      ],
+      "Sat": [
+        "10:00 – 20:00"
+      ],
+      "Sun": [
+        "10:00 – 20:00"
+      ],
+      "Thu": [
+        "11:00 – 20:00"
+      ],
+      "Tue": [
+        "11:00 – 20:00"
+      ],
+      "Wed": [
+        "11:00 – 20:00"
+      ]
+    },
+    "criteria": [
+      "Stable Wi-Fi",
+      "Quiet",
+      "Coffee",
+      "Food"
+    ],
+    "created_at": "2024-03-01T07:45:37.023Z",
+    "updated_at": "2024-03-01T07:45:37.023Z"
+  },
+  {
+    "id": 20,
+    "title": "KOMEDA'S COFFEE SHINJUKU GYOEN",
+    "address": "1-chōme-10-1 Shinjuku, Shinjuku City, 160-0022, Tokyo",
+    "picture": "https://laptopfriendly.co/images/places/tokyo/komedas-coffee-shinjuku-gyoen/komedas-coffee-shinjuku-gyoen--other.jpg",
+    "hours": {
+      "Fri": [
+        "07:00 – 20:00"
+      ],
+      "Mon": [
+        "07:00 – 20:00"
+      ],
+      "Sat": [
+        "07:00 – 20:00"
+      ],
+      "Sun": [
+        "07:00 – 20:00"
+      ],
+      "Thu": [
+        "07:00 – 20:00"
+      ],
+      "Tue": [
+        "07:00 – 20:00"
+      ],
+      "Wed": [
+        "07:00 – 20:00"
+      ]
+    },
+    "criteria": [
+      "Stable Wi-Fi",
+      "Power sockets",
+      "Quiet",
+      "Coffee",
+      "Food"
+    ],
+    "created_at": "2024-03-01T07:45:37.021Z",
+    "updated_at": "2024-03-01T07:45:37.021Z"
+  },
+  {
+    "id": 19,
+    "title": "SONOKO CAFE",
+    "address": "5 Chome−9−1 銀座幸ビル, 104-0061, Tokyo",
+    "picture": "https://laptopfriendly.co/images/places/tokyo/sonoko-cafe/sonoko-cafe--other.jpg",
+    "hours": {
+      "Fri": [
+        "11:00 – 20:00"
+      ],
+      "Mon": [
+        "11:00 – 20:00"
+      ],
+      "Sat": [
+        "11:00 – 20:00"
+      ],
+      "Sun": [
+        "11:00 – 20:00"
+      ],
+      "Thu": [
+        "11:00 – 20:00"
+      ],
+      "Tue": [
+        "11:00 – 20:00"
+      ],
+      "Wed": [
+        "11:00 – 20:00"
+      ]
+    },
+    "criteria": [
+      "Stable Wi-Fi",
+      "Power sockets",
+      "Quiet",
+      "Coffee",
+      "Food"
+    ],
+    "created_at": "2024-03-01T07:45:37.019Z",
+    "updated_at": "2024-03-01T07:45:37.019Z"
+  },
+  {
+    "id": 18,
+    "title": "GOOD COFFEE FARMS CAFE & BAR",
+    "address": "〒103-0027, Chuo City, Nihonbashi, 3 1-3 1F, 103-0027, Tokyo",
+    "picture": "https://laptopfriendly.co/images/places/tokyo/good-coffee-farms-cafe-bar/good-coffee-farms-cafe-bar--other.jpg",
+    "hours": {
+      "Fri": [
+        "08:00 – 21:00"
+      ],
+      "Mon": [
+        "08:00 – 21:00"
+      ],
+      "Sat": [
+        "08:00 – 21:00"
+      ],
+      "Sun": [
+        "08:00 – 21:00"
+      ],
+      "Thu": [
+        "08:00 – 21:00"
+      ],
+      "Tue": [
+        "08:00 – 21:00"
+      ],
+      "Wed": [
+        "08:00 – 21:00"
+      ]
+    },
+    "criteria": [
+      "Stable Wi-Fi",
+      "Power sockets",
+      "Quiet",
+      "Coffee"
+    ],
+    "created_at": "2024-03-01T07:45:37.017Z",
+    "updated_at": "2024-03-01T07:45:37.017Z"
+  },
+  {
+    "id": 17,
+    "title": "COFFEE MAFIA 有明",
+    "address": "〒135-0063 Tokyo, Koto City, Ariake, 1 Chome, 6−30 1F, 135-0063, Tokyo",
+    "picture": "https://laptopfriendly.co/images/places/tokyo/coffee-mafia/coffee-mafia--other.jpg",
+    "hours": {
+      "Fri": [
+        "08:00 – 22:00"
+      ],
+      "Mon": [
+        "08:00 – 22:00"
+      ],
+      "Sat": [
+        "08:00 – 22:00"
+      ],
+      "Sun": [
+        "08:00 – 22:00"
+      ],
+      "Thu": [
+        "08:00 – 22:00"
+      ],
+      "Tue": [
+        "08:00 – 22:00"
+      ],
+      "Wed": [
+        "08:00 – 22:00"
+      ]
+    },
+    "criteria": [
+      "Power sockets"
+    ],
+    "created_at": "2024-03-01T07:45:37.015Z",
+    "updated_at": "2024-03-01T07:45:37.015Z"
+  },
+  {
+    "id": 16,
+    "title": "PRONTO - YURAKUCHO DENKI BUILDING",
+    "address": "〒100-0006 Tokyo, Chiyoda City, Yurakucho, 1 Chome−7−1, Yurakucho Denki Building, 1階, 100-0006, Tokyo",
+    "picture": "https://laptopfriendly.co/images/places/tokyo/pronto-yurakucho-denki-building/pronto-yurakucho-denki-building--other.jpg",
+    "hours": {
+      "Fri": [
+        "07:00 – 16:45",
+        "17:00 – 23:00"
+      ],
+      "Mon": [
+        "07:00 – 16:45",
+        "17:00 – 23:00"
+      ],
+      "Sat": [
+        "10:00 – 16:45",
+        "17:00 – 22:00"
+      ],
+      "Sun": [
+        "10:00 – 16:45",
+        "17:00 – 22:00"
+      ],
+      "Thu": [
+        "07:00 – 16:45",
+        "17:00 – 23:00"
+      ],
+      "Tue": [
+        "07:00 – 16:45",
+        "17:00 – 23:00"
+      ],
+      "Wed": [
+        "07:00 – 16:45",
+        "17:00 – 23:00"
+      ]
+    },
+    "criteria": [
+      "Stable Wi-Fi",
+      "Power sockets",
+      "Quiet",
+      "Coffee",
+      "Food"
+    ],
+    "created_at": "2024-03-01T07:45:37.013Z",
+    "updated_at": "2024-03-01T07:45:37.013Z"
+  },
+  {
+    "id": 15,
+    "title": "VERVE COFFEE ROASTERS @ ROPPONGI",
+    "address": "5-chōme-16-8 Roppongi, Minato City, 106-0032, Tokyo",
+    "picture": "https://laptopfriendly.co/images/places/tokyo/verve-coffee-roasters-roppongi/verve-coffee-roasters-roppongi--other.jpg",
+    "hours": {
+      "Fri": [
+        "07:00 – 21:00"
+      ],
+      "Mon": [
+        "07:00 – 21:00"
+      ],
+      "Sat": [
+        "07:00 – 21:00"
+      ],
+      "Sun": [
+        "07:00 – 21:00"
+      ],
+      "Thu": [
+        "07:00 – 21:00"
+      ],
+      "Tue": [
+        "07:00 – 21:00"
+      ],
+      "Wed": [
+        "07:00 – 21:00"
+      ]
+    },
+    "criteria": [
+      "Stable Wi-Fi",
+      "Power sockets",
+      "Quiet",
+      "Coffee"
+    ],
+    "created_at": "2024-03-01T07:45:37.011Z",
+    "updated_at": "2024-03-01T07:45:37.011Z"
+  },
+  {
+    "id": 14,
+    "title": "GOOD SOUND COFFEE",
+    "address": "〒153-0051, Meguro City, Kamimeguro, 1 Chome−6−5 森ビル, 153-0051, Tokyo",
+    "picture": "https://laptopfriendly.co/images/places/tokyo/good-sound-coffee/good-sound-coffee--other.jpg",
+    "hours": {
+      "Fri": [
+        "08:00 – 23:00"
+      ],
+      "Mon": [
+        "08:00 – 23:00"
+      ],
+      "Sat": [
+        "08:00 – 23:00"
+      ],
+      "Sun": [
+        "08:00 – 23:00"
+      ],
+      "Thu": [
+        "08:00 – 23:00"
+      ],
+      "Tue": [
+        "08:00 – 23:00"
+      ],
+      "Wed": [
+        "08:00 – 23:00"
+      ]
+    },
+    "criteria": [
+      "Stable Wi-Fi",
+      "Power sockets",
+      "Quiet",
+      "Coffee",
+      "Food"
+    ],
+    "created_at": "2024-03-01T07:45:37.008Z",
+    "updated_at": "2024-03-01T07:45:37.008Z"
+  },
+  {
+    "id": 13,
+    "title": "ROJU NAKAMEGURO",
+    "address": "1-chōme-9-3 Nakameguro, Meguro City, 153-0061, Tokyo",
+    "picture": "https://laptopfriendly.co/images/places/tokyo/roju-nakameguro/roju-nakameguro--other.jpg",
+    "hours": {
+      "Fri": [
+        "10:00 – 20:00"
+      ],
+      "Mon": [
+        "10:00 – 20:00"
+      ],
+      "Sat": [
+        "10:00 – 20:00"
+      ],
+      "Sun": [
+        "10:00 – 20:00"
+      ],
+      "Thu": [
+        "10:00 – 20:00"
+      ],
+      "Tue": [
+        "10:00 – 20:00"
+      ],
+      "Wed": [
+        "10:00 – 20:00"
+      ]
+    },
+    "criteria": [
+      "Quiet",
+      "Coffee"
+    ],
+    "created_at": "2024-03-01T07:45:37.006Z",
+    "updated_at": "2024-03-01T07:45:37.006Z"
+  },
+  {
+    "id": 12,
+    "title": "DOWNSTAIRS COFFEE",
+    "address": "7-chōme-3-10 Roppongi, Minato City, 106-0032, Tokyo",
+    "picture": "https://laptopfriendly.co/images/places/tokyo/downstairs-coffee/downstairs-coffee--other.jpg",
+    "hours": {
+      "Fri": [
+        "11:00 – 19:00"
+      ],
+      "Mon": [
+        "11:00 – 19:00"
+      ],
+      "Sat": [
+        "11:00 – 19:00"
+      ],
+      "Sun": [
+        "11:00 – 19:00"
+      ],
+      "Thu": [
+        "09:00 – 20:00"
+      ],
+      "Tue": [
+        "11:00 – 19:00"
+      ],
+      "Wed": [
+        "11:00 – 19:00"
+      ]
+    },
+    "criteria": [
+      "Stable Wi-Fi",
+      "Power sockets",
+      "Quiet"
+    ],
+    "created_at": "2024-03-01T07:45:37.004Z",
+    "updated_at": "2024-03-01T07:45:37.004Z"
+  },
+  {
+    "id": 11,
+    "title": "ITALIAN TOMATO CAFÉ JR. @ TOKYO DENKI UNIVERSITY",
+    "address": "5 Senjuasahicho, Adachi City, 120-0026, Tokyo",
+    "picture": "https://laptopfriendly.co/images/places/tokyo/italian-tomato-cafe-jr-tokyo-denki-university/italian-tomato-cafe-jr-tokyo-denki-university--other.jpg",
+    "hours": {
+      "Fri": [
+        "08:00 – 21:00"
+      ],
+      "Mon": [
+        "08:00 – 21:00"
+      ],
+      "Sat": [
+        "08:00 – 17:00"
+      ],
+      "Sun": [
+        "Closed"
+      ],
+      "Thu": [
+        "08:00 – 21:00"
+      ],
+      "Tue": [
+        "08:00 – 21:00"
+      ],
+      "Wed": [
+        "08:00 – 21:00"
+      ]
+    },
+    "criteria": [
+      "Quiet",
+      "Coffee",
+      "Food"
+    ],
+    "created_at": "2024-03-01T07:45:37.002Z",
+    "updated_at": "2024-03-01T07:45:37.002Z"
+  },
+  {
+    "id": 10,
+    "title": "CAFFÈRA BAR & LOUNGE BY 上島珈琲店",
+    "address": "Japan, 〒106-0045 Tokyo, Minato City, Azabujuban, 1 Chome−5−23 HOTEL THE LIBELY２F, 106-0045, Tokyo",
+    "picture": "https://laptopfriendly.co/images/places/tokyo/caffera-bar-lounge-by/caffera-bar-lounge-by--other.jpg",
+    "hours": {
+      "Fri": [
+        "07:30 – 20:00"
+      ],
+      "Mon": [
+        "07:30 – 20:00"
+      ],
+      "Sat": [
+        "07:30 – 20:00"
+      ],
+      "Sun": [
+        "07:30 – 18:00"
+      ],
+      "Thu": [
+        "07:30 – 20:00"
+      ],
+      "Tue": [
+        "07:30 – 20:00"
+      ],
+      "Wed": [
+        "07:30 – 20:00"
+      ]
+    },
+    "criteria": [
+      "Stable Wi-Fi",
+      "Quiet",
+      "Food"
+    ],
+    "created_at": "2024-03-01T07:45:37.000Z",
+    "updated_at": "2024-03-01T07:45:37.000Z"
+  },
+  {
+    "id": 9,
+    "title": "TOKYO METROPOLITAN CENTRAL LIBRARY",
+    "address": "5-chōme-7-13 Minamiazabu, Minato City, 106-8575, Tokyo",
+    "picture": "https://laptopfriendly.co/images/places/tokyo/tokyo-metropolitan-central-library/tokyo-metropolitan-central-library--other.jpg",
+    "hours": {
+      "Fri": [
+        "10:00 – 21:00"
+      ],
+      "Mon": [
+        "10:00 – 21:00"
+      ],
+      "Sat": [
+        "10:00 – 17:30"
+      ],
+      "Sun": [
+        "10:00 – 17:30"
+      ],
+      "Thu": [
+        "10:00 – 21:00"
+      ],
+      "Tue": [
+        "10:00 – 21:00"
+      ],
+      "Wed": [
+        "10:00 – 21:00"
+      ]
+    },
+    "criteria": [
+      "Stable Wi-Fi",
+      "Power sockets",
+      "Quiet",
+      "Coffee",
+      "Food"
+    ],
+    "created_at": "2024-03-01T07:45:36.998Z",
+    "updated_at": "2024-03-01T07:45:36.998Z"
+  },
+  {
+    "id": 8,
+    "title": "METOA CAFE & KITCHEN",
+    "address": "〒104-0061 Tokyo, Chuo City, Ginza, 5 Chome−2−1, 104-0061, Tokyo",
+    "picture": "https://laptopfriendly.co/images/places/tokyo/metoa-cafe-kitchen/metoa-cafe-kitchen--other.jpg",
+    "hours": {
+      "Fri": [
+        "11:00 – 23:00"
+      ],
+      "Mon": [
+        "11:00 – 23:00"
+      ],
+      "Sat": [
+        "08:30 – 23:00"
+      ],
+      "Sun": [
+        "08:30 – 23:00"
+      ],
+      "Thu": [
+        "11:00 – 23:00"
+      ],
+      "Tue": [
+        "11:00 – 23:00"
+      ],
+      "Wed": [
+        "11:00 – 23:00"
+      ]
+    },
+    "criteria": [
+      "Stable Wi-Fi",
+      "Power sockets",
+      "Quiet",
+      "Food"
+    ],
+    "created_at": "2024-03-01T07:45:36.995Z",
+    "updated_at": "2024-03-01T07:45:36.995Z"
+  },
+  {
+    "id": 7,
+    "title": "LS CAFE",
+    "address": "〒135-0021 Tokyo, Koto City, Shirakawa, 2 Chome−14−7, 135-0021, Tokyo",
+    "picture": "https://laptopfriendly.co/images/places/tokyo/ls-cafe/ls-cafe--other.jpg",
+    "hours": {
+      "Fri": [
+        "09:00 – 20:00"
+      ],
+      "Mon": [
+        "Open 24 hours"
+      ],
+      "Sat": [
+        "09:00 – 20:00"
+      ],
+      "Sun": [
+        "09:00 – 20:00"
+      ],
+      "Thu": [
+        "09:00 – 20:00"
+      ],
+      "Tue": [
+        "09:00 – 20:00"
+      ],
+      "Wed": [
+        "09:00 – 20:00"
+      ]
+    },
+    "criteria": [
+      "Stable Wi-Fi",
+      "Power sockets",
+      "Quiet",
+      "Coffee",
+      "Food"
+    ],
+    "created_at": "2024-03-01T07:45:36.993Z",
+    "updated_at": "2024-03-01T07:45:36.993Z"
+  },
+  {
+    "id": 6,
+    "title": "NANA'S GREEN TEA @ TOKYO DOME CITY LAQUA",
+    "address": "〒112-0003 Tokyo, Bunkyo City, Kasuga, 1 Chome−1−1, 112-0003, Tokyo",
+    "picture": "https://laptopfriendly.co/images/places/tokyo/nanas-green-tea-tokyo-dome-city-laqua/nanas-green-tea-tokyo-dome-city-laqua--other.jpg",
+    "hours": {
+      "Fri": [
+        "11:00 – 21:00"
+      ],
+      "Mon": [
+        "11:00 – 21:00"
+      ],
+      "Sat": [
+        "11:00 – 21:00"
+      ],
+      "Sun": [
+        "11:00 – 21:00"
+      ],
+      "Thu": [
+        "11:00 – 21:00"
+      ],
+      "Tue": [
+        "11:00 – 21:00"
+      ],
+      "Wed": [
+        "11:00 – 21:00"
+      ]
+    },
+    "criteria": [
+      "Stable Wi-Fi",
+      "Power sockets",
+      "Quiet",
+      "Coffee",
+      "Food"
+    ],
+    "created_at": "2024-03-01T07:45:36.991Z",
+    "updated_at": "2024-03-01T07:45:36.991Z"
+  },
+  {
+    "id": 5,
+    "title": "STREAMER COFFEE COMPANY AKASAKA",
+    "address": "3-chōme-6-14 Akasaka, Minato City, 107-0052, Tokyo",
+    "picture": "https://laptopfriendly.co/images/places/tokyo/streamer-coffee-company-akasaka/streamer-coffee-company-akasaka--other.jpg",
+    "hours": {
+      "Fri": [
+        "09:00 – 21:00"
+      ],
+      "Mon": [
+        "09:00 – 21:00"
+      ],
+      "Sat": [
+        "09:00 – 21:00"
+      ],
+      "Sun": [
+        "09:00 – 21:00"
+      ],
+      "Thu": [
+        "09:00 – 21:00"
+      ],
+      "Tue": [
+        "09:00 – 21:00"
+      ],
+      "Wed": [
+        "09:00 – 21:00"
+      ]
+    },
+    "criteria": [
+      "Stable Wi-Fi",
+      "Power sockets",
+      "Quiet",
+      "Coffee",
+      "Food"
+    ],
+    "created_at": "2024-03-01T07:45:36.989Z",
+    "updated_at": "2024-03-01T07:45:36.989Z"
+  },
+  {
+    "id": 4,
+    "title": "MOJA IN THE HOUSE",
+    "address": "1-chōme-11-1 Shibuya, Shibuya City, 150-0002, Tokyo, 150-0002, Tokyo",
+    "picture": "https://laptopfriendly.co/images/places/tokyo/moja-in-the-house/moja-in-the-house--other.jpg",
+    "hours": {
+      "Fri": [
+        "11:00 – 23:00"
+      ],
+      "Mon": [
+        "11:00 – 23:00"
+      ],
+      "Sat": [
+        "11:00 – 23:00"
+      ],
+      "Sun": [
+        "11:00 – 23:00"
+      ],
+      "Thu": [
+        "11:00 – 23:00"
+      ],
+      "Tue": [
+        "11:00 – 23:00"
+      ],
+      "Wed": [
+        "11:00 – 23:00"
+      ]
+    },
+    "criteria": [
+      "Stable Wi-Fi",
+      "Power sockets",
+      "Quiet",
+      "Coffee",
+      "Food"
+    ],
+    "created_at": "2024-03-01T07:45:36.987Z",
+    "updated_at": "2024-03-01T07:45:36.987Z"
+  },
+  {
+    "id": 3,
+    "title": "COMMON",
+    "address": "106-0032, Tokyo",
+    "picture": "https://laptopfriendly.co/images/places/tokyo/common/common--tokyo.jpg",
+    "hours": {
+      "Fri": [
+        "08:00 – 23:00"
+      ],
+      "Mon": [
+        "08:00 – 23:00"
+      ],
+      "Sat": [
+        "08:00 – 23:00"
+      ],
+      "Sun": [
+        "08:00 – 23:00"
+      ],
+      "Thu": [
+        "08:00 – 23:00"
+      ],
+      "Tue": [
+        "08:00 – 23:00"
+      ],
+      "Wed": [
+        "08:00 – 23:00"
+      ]
+    },
+    "criteria": [
+      "Stable Wi-Fi",
+      "Power sockets",
+      "Quiet",
+      "Coffee",
+      "Food"
+    ],
+    "created_at": "2024-03-01T07:45:36.985Z",
+    "updated_at": "2024-03-01T07:45:36.985Z"
+  },
+  {
+    "id": 2,
+    "title": "DDSK SAIGON KITCHEN",
+    "address": "ss, 135-0061, Tokyo",
+    "picture": "https://laptopfriendly.co/images/places/tokyo/ddsk-saigon-kitchen/ddsk-saigon-kitchen--tokyo.jpg",
+    "hours": {
+      "Fri": [
+        "11:00 – 15:00",
+        "17:00 – 22:00"
+      ],
+      "Mon": [
+        "11:00 – 15:00",
+        "17:00 – 22:00"
+      ],
+      "Sat": [
+        "11:00 – 22:00",
+        ""
+      ],
+      "Sun": [
+        "11:00 – 22:00",
+        ""
+      ],
+      "Thu": [
+        "11:00 – 15:00",
+        "17:00 – 22:00"
+      ],
+      "Tue": [
+        "11:00 – 15:00",
+        "17:00 – 22:00"
+      ],
+      "Wed": [
+        "11:00 – 15:00",
+        "17:00 – 22:00"
+      ]
+    },
+    "criteria": [],
+    "created_at": "2024-03-01T07:45:36.978Z",
+    "updated_at": "2024-03-01T07:45:36.978Z"
+  },
+  {
+    "id": 1,
+    "title": "Le Wagon Tokyo",
+    "address": " 2 Chome-11-3 Meguro, Meguro City, Tokyo 153-0063",
+    "picture": "https://www-img.lewagon.com/wtXjAOJx9hLKEFC89PRyR9mSCnBOoLcerKkhWp-2OTE/rs:fill:640:800/plain/s3://wagon-www/x385htxbnf0kam1yoso5y2rqlxuo",
+    "hours": {
+      "Fri": [
+        "11:00 – 15:00",
+        "17:00 – 22:00"
+      ],
+      "Mon": [
+        "11:00 – 15:00",
+        "17:00 – 22:00"
+      ],
+      "Sat": [
+        "11:00 – 22:00",
+        ""
+      ],
+      "Sun": [
+        "11:00 – 22:00",
+        ""
+      ],
+      "Thu": [
+        "11:00 – 15:00",
+        "17:00 – 22:00"
+      ],
+      "Tue": [
+        "11:00 – 15:00",
+        "17:00 – 22:00"
+      ],
+      "Wed": [
+        "11:00 – 15:00",
+        "17:00 – 22:00"
+      ]
+    },
+    "criteria": [
+      "coffee",
+      "wifi",
+      "outlets",
+      "vibes"
+    ],
+    "created_at": "2024-03-01T06:43:56.910Z",
+    "updated_at": "2024-03-01T06:44:17.175Z"
+  }
+]
